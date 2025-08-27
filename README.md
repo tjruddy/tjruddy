@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/tristan-ruddy-3b3669206/]  
+- LinkedIn: https://www.linkedin.com/in/tristan-ruddy-3b3669206/
 - Email: tristan.ruddy@hotmail.com
