@@ -1,8 +1,8 @@
 # Hi, I'm Tristan Ruddy 👋
 
 💻 Computer Science student  
-🚀 Exploring different areas of CS
-🎨 Passionate about **design and creativity**, whether in code or visuals
+🚀 Exploring different areas of CS  
+🎨 Passionate about **design and creativity**, whether in code or visuals  
 🎮 Gamer at heart, which inspires many of my personal projects
 
 ---
