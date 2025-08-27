@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tristan Ruddy 👋
 
-<!--
-**tjruddy/tjruddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student  
+🚀 Exploring different areas of CS
+🎨 Passionate about **design and creativity**, whether in code or visuals
+🎮 Gamer at heart, which inspires many of my personal projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** JavaScript, HTML/CSS, SQL, Java, C#, Python 
+- **Learning:** C++ (2D-3D programming)  
+- **Focus Areas:**  Web apps, creative design, and game-inspired projects 
+
+---
+
+## 📌 Featured Projects  
+- **Fort Ramsay Motel Website** – Responsive bilingual hotel site  
+- **Lawyer Website** - In progress...
+- **RP Micro Website** - In progress...
+
+---
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/tristan-ruddy-3b3669206/]  
+- Email: tristan.ruddy@hotmail.com
