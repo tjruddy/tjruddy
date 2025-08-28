@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Featured Projects  
-- **Fort Ramsay Motel Website** – Responsive bilingual hotel site  
+- **Fort Ramsay Motel Website** – Responsive bilingual motel site  
 - **Lawyer Website** - In progress...
 - **RP Micro Website** - In progress...
 
