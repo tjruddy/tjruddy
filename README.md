@@ -15,9 +15,13 @@
 ---
 
 ## 📌 Featured Projects  
-- **Fort Ramsay Motel Website** – Responsive bilingual motel site  
-- **Lawyer Website** - In progress...
-- **RP Micro Website** - In progress...
+
+- 🎯 [**Fort Ramsay Motel Website**](https://github.com/tjruddy/fort-ramsay) – Responsive bilingual motel site  
+- 🧩 [**Connect N**](https://github.com/tjruddy/ConnectN) – Desktop Connect Four–style Java game built for my Prog II class (2021)  
+- 🃏 [**Monkey Hands Party Poker**](https://github.com/tjruddy/monkey-hands-party-poker) – Browser-based poker game built for my Web II class (2021)  
+- 🧱 **MineCoin** – Work-in-progress...  
+- ⚖️ **Lawyer Website** – In progress...  
+- 💼 **RP Micro Website** – In progress...
 
 ---
 
