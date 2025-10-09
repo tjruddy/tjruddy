@@ -8,9 +8,10 @@
 ---
 
 ## 🛠 Skills
-- **Languages:** JavaScript, HTML/CSS, SQL, Java, C#, Python 
-- **Learning:** C++ (2D-3D programming)  
-- **Focus Areas:**  Web apps, creative design, and game-inspired projects 
+- **Programming Languages:** JavaScript, HTML/CSS, SQL, Java, C#, Python, C++
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+), ASP.NET
+- **Database Management:** SQL Server, MySQL
+- **Software & Tools:** Git, GitHub, Visual Studio, VS Code, Eclipse
 
 ---
 
